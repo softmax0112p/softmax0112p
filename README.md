@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=softmax0112p&icon=0&color=12)](https://visitcount.itsvg.in)
