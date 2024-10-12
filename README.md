@@ -21,4 +21,12 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softmax0112p&layout=compact&theme=dark&show_icons=true&hide_border=false&count_private=false&include_all_commits=true&show=reviews,discussion_answered,prs_merged,prs_merged_percentage)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softmax0112p&theme=dark&show_icons=true&hide_border=false&count_private=false&include_all_commits=true&show=reviews,discussion_answered,prs_merged,prs_merged_percentage)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=softmax0112p&icon=0&color=12)](https://visitcount.itsvg.in)
