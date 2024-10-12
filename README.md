@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👀 I have a keen interest in Node.js, React/Next.js, TypeScript, Laravel, Ruby on Rails, Python, Django and Flask.
 - 🌱 I’m currently exploring Retrieval-Augmented Generation (RAG).
 - 👯 I’m looking to collaborate on innovative projects in Web & Mobile application, AI/ML, and Video Streaming. Let's bring your ideas to life!
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 Feel free to conact me via email at softmax0112@gmail.com
 - ⚡ Fun fact: I enjoy cycling and skiing when I’m not coding.
